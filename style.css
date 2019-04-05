@@ -91,13 +91,14 @@ footer {
 
 .banner {
   height: 450px;
-  background-image: url(images/lakes-water/ocean-sunrise.jpg);
+  background-image: url(images/foggy-snowy-day.jpg);
   background-size: cover;
   background-position: center;
 }
 
 img {
   height: 300px;
+  width: 300px;
 }
 
 .column {
